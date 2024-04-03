@@ -1,2 +1,2 @@
-# LeetCode-Climbing_Stairs
-LeetCode Climbing_Stairs
+# LeetCode-Climbing Stairs
+LeetCode Climbing Stairs
